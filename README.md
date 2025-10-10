@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Sanket Jagtap
 
-![Header](https://user-images.githubusercontent.com/your-image-url/header-banner.png)  
-
 ## 🚀 About Me
 I am a **Full Stack Developer** with 4+ years of experience in designing, developing, and deploying scalable web and mobile applications using **Angular, Node.js, Flutter, and AWS**.  
 I specialize in **microservices architecture**, **real-time systems**, **CI/CD pipelines**, and **high-performance backend development**.  
