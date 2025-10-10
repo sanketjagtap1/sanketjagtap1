@@ -1,35 +1,115 @@
-# Hi 👋, I'm Sanket Jagtap
+# 👋 Hi, I'm Sanket Jagtap
 
-## 💻 About Me
-Full Stack Developer | Angular | Node.js | Flutter | AWS  
-I specialize in building scalable web and mobile applications, focusing on performance, microservices architecture, and CI/CD pipelines.
+![Header](https://user-images.githubusercontent.com/your-image-url/header-banner.png)  
 
-📚 Currently working on **AlgoETF — Real-Time Trading Platform**  
-🌱 Learning advanced cloud architecture & AI integrations
+## 🚀 About Me
+I am a **Full Stack Developer** with 4+ years of experience in designing, developing, and deploying scalable web and mobile applications using **Angular, Node.js, Flutter, and AWS**.  
+I specialize in **microservices architecture**, **real-time systems**, **CI/CD pipelines**, and **high-performance backend development**.  
+
+💡 I enjoy solving complex problems, building efficient systems, and learning new technologies.  
 
 ---
 
-## 🚀 Skills
-- **Frontend:** Angular, Ionic, Flutter, React.js, HTML5, CSS3, Bootstrap, Material UI, RxJS  
-- **Backend:** Node.js, Express.js, NestJS, WebSockets, Redis (Pub/Sub), PostgreSQL, MySQL, MongoDB  
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, Route 53, Secrets Manager), PM2, Nginx, GitHub Actions, Docker  
-- **Tools:** Git, GitLab, Postman, Jest, Mocha, Jasmine, SonarQube, Agile/Scrum
+## 💼 Skills
+
+### **Frontend**
+- Angular, Ionic, Flutter  
+- HTML5, CSS3, Bootstrap, Material UI  
+- RxJS, REST APIs, Swagger  
+
+### **Backend**
+- Node.js, Express.js, NestJS  
+- WebSockets, Redis (Pub/Sub)  
+- PostgreSQL, MySQL, MongoDB  
+- Prisma, Sequelize  
+
+### **Cloud & DevOps**
+- AWS (EC2, S3, Lambda, Route 53, Secrets Manager)  
+- Docker, PM2, Nginx  
+- GitHub Actions (CI/CD)  
+
+### **Tools**
+- Git, GitLab, Postman  
+- Jest, Mocha, Jasmine  
+- SonarQube, Agile/Scrum  
 
 ---
 
 ## 🛠️ Projects
-- **[AlgoETF](https://github.com/sanketjagtap/AlgoETF)** — Automated Trading Platform with real-time data streaming and multi-broker integration.  
-- **[One Andro](https://github.com/sanketjagtap/OneAndro)** — Mobile app backend built with Node.js, Ionic, and React.js.  
-- **[Retention Portal](https://github.com/sanketjagtap/RetentionPortal)** — Workflow automation system reducing processing time from weeks to days.  
-- **[Vendor Onboarding Journey](https://github.com/sanketjagtap/VendorOnboarding)** — Streamlined onboarding with secure access control.
+
+### **AlgoETF**  
+🚀 **Automated Trading Platform**  
+**Stack:** Angular, Node.js, Express.js, Redis, WebSockets, MySQL, AWS, GitHub Actions  
+
+- Designed a **real-time automated trading system** with multi-broker integration.  
+- Implemented **Redis Pub/Sub** message bus and WebSocket streaming for instant order execution without latency.  
+- Developed a **microservices-based backend architecture** for scalability and fault tolerance.  
+- Deployed on AWS with CI/CD pipelines for automated releases.  
+- Created **monitoring dashboards** for live market tracking and analytics.  
+
+🔗 [View Project](#)  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: sanketjagtap479@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/sanket-jagtap](https://linkedin.com/in/sanket-jagtap)
+### **One Andro**  
+📱 **Mobile App Backend Development**  
+**Stack:** Node.js, Express.js, MySQL, Ionic, React.js, GitLab  
+
+- Developed backend REST APIs for app functionality.  
+- Optimized database queries for speed and reliability.  
+- Maintained high-quality code with **SonarQube** compliance.  
+- Collaborated closely with frontend teams to ensure smooth integration.  
+
+🔗 [View Project](#)  
 
 ---
 
-## 📊 GitHub Stats
-![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketjagtap&show_icons=true&theme=dark)
+### **Retention Portal**  
+🏢 **Enterprise Workflow Automation**  
+**Stack:** Angular, Node.js, PostgreSQL, AWS EC2  
+
+- Built an enterprise-grade portal to automate retention processes.  
+- Integrated multiple backend systems to streamline workflows.  
+- Reduced retention cycle time from **2 weeks to 2–3 days**.  
+- Designed reusable frontend components and backend workflows.  
+
+🔗 [View Project](#)  
+
+---
+
+### **Vendor Onboarding Journey**  
+🛠 **Vendor Management System**  
+**Stack:** Angular, Node.js, MySQL  
+
+- Developed workflows to streamline vendor onboarding.  
+- Implemented **role-based access control (RBAC)** for security.  
+- Optimized API performance, improving onboarding speed by 40%.  
+
+🔗 [View Project](#)  
+
+---
+
+## 🏆 Achievements
+- Successfully **reduced operational turnaround time by up to 40%** in multiple projects.  
+- Designed and deployed **end-to-end microservices architecture** on AWS.  
+- Built **real-time trading systems** ensuring no missed profit opportunities.  
+- Led a team of developers and maintained high-quality software delivery.  
+
+---
+
+## 📫 Contact Me  
+📧 sanketjagtap479@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/sanket-jagtap)  
+📱 +91 8806328987  
+
+---
+
+## 📊 GitHub Stats  
+
+![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketjagtap&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketjagtap&layout=compact&theme=dark)  
+
+---
+
+## ⚡ Fun Fact  
+_"Code never lies, but comments sometimes do."_  
