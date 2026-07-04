@@ -1,132 +1,95 @@
 <!-- ======================== HEADER ======================== -->
 
 <h1 align="center">Hi 👋, I'm Sanket Jagtap</h1>
-<h3 align="center">🚀 Full Stack Developer | Microservices Architect | Real-Time Systems Engineer</h3>
+<h3 align="center">Full-Stack Developer · Web & Mobile · Angular · Node.js · Flutter · AWS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=600&lines=4%2B+Years+Experience;Angular+%7C+Node.js+%7C+Flutter+Developer;Microservices+Architecture+Specialist;AWS+Cloud+Engineer;Building+Scalable+High-Performance+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BEF264&center=true&vCenter=true&width=620&lines=4%2B+Years+Building+Web+%26+Mobile+Products;Angular+%7C+React+%7C+Node.js+%7C+Flutter;Microservices+%26+Real-Time+Systems;AWS+%7C+Docker+%7C+CI%2FCD;Available+for+Freelance+%26+Full-Time" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanketjagtap1" />
+  <a href="https://sanket-jagtap.in"><img src="https://img.shields.io/badge/Portfolio-sanket--jagtap.in-BEF264?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/sanket-jagtap"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contact@sanket-jagtap.in"><img src="https://img.shields.io/badge/Email-contact@sanket--jagtap.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanketjagtap1&label=Profile%20views&color=bef264&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Full Stack Developer with **4+ years of experience** designing and deploying scalable web and mobile applications.
+I'm **Sanket Jagtap**, a full-stack developer with **4+ years** of experience helping startups and businesses design, build and ship scalable web & mobile applications — from enterprise finance portals to real-time trading platforms and consumer mobile apps.
 
-⚡ Specialized in:
-- Microservices Architecture
-- Real-Time Systems (WebSockets + Redis Pub/Sub)
-- CI/CD Automation (GitHub Actions)
-- AWS Cloud Infrastructure
-- High-Performance Backend Systems
-
-🎯 Passionate about solving complex problems and building efficient, scalable software solutions.
+- 🔭 Currently building products with **Angular, React, Node.js and Flutter**
+- ⚡ Specialised in **microservices, real-time systems (WebSockets + Redis), CI/CD and AWS**
+- 🌐 Portfolio → **[sanket-jagtap.in](https://sanket-jagtap.in)**
+- 💼 Open to **freelance projects and full-time roles**
+- 📫 Reach me at **contact@sanket-jagtap.in**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Frontend
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,flutter,html,css,bootstrap,materialui,typescript" />
+  <img src="https://skillicons.dev/icons?i=angular,react,flutter,typescript,html,css,bootstrap,materialui" />
 </p>
 
-### ⚙️ Backend
+**Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,postgres,mysql,mongodb,prisma" />
 </p>
 
-### ☁️ Cloud & DevOps
+**Cloud & DevOps**
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux" />
 </p>
 
-### 🧰 Tools & Testing
+**Tools & Testing**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=git,postman,jest,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🔥 Featured Projects
 
-### 🔥 AlgoETF – Real-Time Automated Trading Platform
+### 📈 AlgoETF — Real-Time Automated Trading Platform
+A real-time automated trading platform with multi-broker integration, WebSocket data streaming, Redis Pub/Sub and a fault-tolerant microservices backend on AWS.
+`Angular` · `Node.js` · `Express` · `Redis` · `WebSockets` · `MySQL` · `AWS` · `CI/CD`
+🔗 **[Case study →](https://sanket-jagtap.in/projects)**
 
-**Tech Stack:** Angular | Node.js | Redis | WebSockets | MySQL | AWS | CI/CD  
-
-- 🚀 Built a **real-time automated trading system** with multi-broker integration  
-- ⚡ Implemented **Redis Pub/Sub + WebSockets** for ultra-low latency order execution  
-- 🏗️ Designed scalable **microservices backend architecture**  
-- ☁️ Deployed infrastructure on AWS (EC2, S3, Route 53)  
-- 🔄 Implemented CI/CD pipelines for automated deployments  
-- 📊 Developed monitoring dashboards for live analytics  
-
----
-
-## 🏆 Achievements
-
-- ✅ Reduced operational turnaround time by **40%**
-- ✅ Designed and deployed scalable microservices architecture
-- ✅ Built production-grade real-time trading systems
-- ✅ Led teams using Agile methodology
-- ✅ Optimized backend systems for performance and scalability
+### 🎵 BeatNest — Cross-Platform Music Streaming App
+A full-featured Flutter music app with gapless background playback, lock-screen media controls, offline downloads, voice search and cloud-synced libraries via Firebase.
+`Flutter` · `Dart` · `just_audio` · `Firebase` · `SQLite`
+🔗 **[Learn more →](https://sanket-jagtap.in/projects)**
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketjagtap1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanketjagtap1&show_icons=true&hide_border=true&title_color=BEF264&icon_color=BEF264&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketjagtap1&layout=compact&hide_border=true&title_color=BEF264&text_color=c9d1d9&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanketjagtap1&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketjagtap1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketjagtap1&hide_border=true&background=0d1117&stroke=BEF264&ring=BEF264&fire=BEF264&currStreakLabel=BEF264" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketjagtap1&theme=tokyo-night&hide_border=true" />
+If you're building something and need a reliable full-stack developer, I'd love to hear about it.
+
+<p>
+  <a href="https://sanket-jagtap.in">🌐 Portfolio</a> ·
+  <a href="https://linkedin.com/in/sanket-jagtap">💼 LinkedIn</a> ·
+  <a href="mailto:contact@sanket-jagtap.in">📧 Email</a>
 </p>
 
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanketjagtap1&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/sanket-jagtap" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:sanketjagtap479@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-📧 sanketjagtap479@gmail.com  
-📱 +91 8806328987  
-
----
-
-## ⚡ Fun Fact
-
-> _"Code never lies, but comments sometimes do."_ 😄
+<sub>📍 Pune, India · Full-Stack Developer (Angular · React · Node.js · Flutter · AWS)</sub>
