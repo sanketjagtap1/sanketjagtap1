@@ -1,7 +1,7 @@
 <!-- ======================== HEADER ======================== -->
 
 <h1 align="center">Hi 👋, I'm Sanket Jagtap</h1>
-<h3 align="center">Full-Stack Developer · Web & Mobile · Angular · Node.js · Flutter · AWS</h3>
+<h3 align="center">Full Stack Engineer @ Kaiser Permanente · Angular · React · Node.js · TypeScript · Flutter · AWS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BEF264&center=true&vCenter=true&width=620&lines=4%2B+Years+Building+Web+%26+Mobile+Products;Angular+%7C+React+%7C+Node.js+%7C+Flutter;Microservices+%26+Real-Time+Systems;AWS+%7C+Docker+%7C+CI%2FCD;Available+for+Freelance+%26+Full-Time" />
@@ -23,6 +23,8 @@
 
 I'm **Sanket Jagtap**, a full-stack developer with **4+ years** of experience helping startups and businesses design, build and ship scalable web & mobile applications — from enterprise finance portals to real-time trading platforms and consumer mobile apps.
 
+- 💼 Full Stack Engineer @ **Kaiser Permanente** — modernizing enterprise legacy **Java Swing** applications into **React**
+- 🤖 Built an **AI-assisted delivery workflow (GitHub Copilot)** automating discovery → implementation → test generation
 - 🔭 Currently building products with **Angular, React, Node.js and Flutter**
 - ⚡ Specialised in **microservices, real-time systems (WebSockets + Redis), CI/CD and AWS**
 - 🌐 Portfolio → **[sanket-jagtap.in](https://sanket-jagtap.in)**
@@ -65,6 +67,11 @@ A real-time automated trading platform with multi-broker integration, WebSocket 
 ### 🎵 BeatNest — Cross-Platform Music Streaming App
 A full-featured Flutter music app with gapless background playback, lock-screen media controls, offline downloads, voice search and cloud-synced libraries via Firebase.
 `Flutter` · `Dart` · `just_audio` · `Firebase` · `SQLite`
+🔗 **[Learn more →](https://sanket-jagtap.in/projects)**
+
+### ☁️ Cloud Nest — Personal Cloud Storage Platform
+A self-hosted, S3-style cloud storage platform with workspaces, folder organization and team file sharing — built for speed with Redis caching and secure access controls.
+`Angular` · `Node.js` · `Express` · `MySQL` · `Redis`
 🔗 **[Learn more →](https://sanket-jagtap.in/projects)**
 
 ---
